@@ -17,7 +17,7 @@ public class cipherinput {
 			location = code.indexOf(temp) + 2;
 			output = code.substring(location + adjust - 1, location + adjust);
 			System.out.print(output);
-			
+			//test of git pls ignore
 			
 			
 			
